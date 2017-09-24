@@ -6,7 +6,7 @@
 practicer/
 ├─ index.html        # トップページ
 ├─ member.html       # 登場人物紹介ページ
-├─ work.html         # 名言
+├─ work.html         # その他
 ├─ README.md
 ├─ images
 └─ css/
